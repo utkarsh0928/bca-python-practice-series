@@ -1,3 +1,5 @@
+![Progress](https://img.shields.io/badge/Progress-3%20%2F%20141-orange)
+![Consistency](https://img.shields.io/badge/Daily_Goal-1--2_Progs-green)
 # 🐍 140+ Daily Python Challenge
 
 Welcome to my Python practice repository! [cite_start]This project is a dedicated journey to master the fundamentals of Python by solving over **140+ basic programs**. 
@@ -29,15 +31,15 @@ The programs in this collection cover a wide range of essential Python topics:
     python prog_01_hello_world.py
     ```
 
-## 📅 Daily Progress Tracker
-I am uploading 1-2 programs every day to stay consistent.
+## 📊 Real-Time Progress Tracker
 
-| Day | Program Range | Key Topic | Status |
-| :--- | :--- | :--- | :--- |
-| **Day 1** | 01 - 05 | Hello World, Arithmetic, Random Numbers | ✅ Completed |
-| **Day 2** | 06 - 10 | Conversions & Variable Swapping | ✅ Completed |
-| **Day 3** | 11 - 15 | Conditional Logic & Prime Numbers | ⏳ In Progress |
-| **Day 4** | ... | ... | 📅 Upcoming |
+| Day | Date | Programs | Topic | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Day 1** | 2026-02-19 | 01 - 03 | Hello World, Arithmetic, Division | ✅ Done |
+| **Day 2** | 2026-02-20 | 04 - 05 | Swapping & Random Numbers | ⏳ Next |
+| **Day 3** | 2026-02-21 | 06 - 07 | Unit Conversions | 📅 Upcoming |
+
+> **Total Completion:** 2.1% (3/141)
 
 ---
 **Author:** Utkarsh Verma  
