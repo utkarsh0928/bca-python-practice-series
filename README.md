@@ -10,11 +10,11 @@ This repository serves as a daily log of my progress. Each script is designed to
 
 ## 📂 Project Overview
 The programs in this collection cover a wide range of essential Python topics:
-* [cite_start]**Fundamental Math:** Arithmetic operations, area calculations, and solving quadratic equations[cite: 13, 31, 110].
-* [cite_start]**Unit Conversions:** Kilometers to miles and Celsius to Fahrenheit[cite: 65, 80].
-* [cite_start]**Mathematical Logic:** Prime numbers, Fibonacci sequences, Armstrong numbers, and Disarium numbers[cite: 250, 362, 418, 1375].
-* [cite_start]**Data Structures:** CRUD-style operations on lists, arrays, and dictionaries[cite: 947, 1618, 2019].
-* [cite_start]**Algorithms:** Recursion, Binary Search, and string manipulation[cite: 768, 812, 2571].
+* **Fundamental Math:** Arithmetic operations, area calculations, and solving quadratic equations.
+* **Unit Conversions:** Kilometers to miles and Celsius to Fahrenheit.
+* **Mathematical Logic:** Prime numbers, Fibonacci sequences, Armstrong numbers, and Disarium numbers.
+* **Data Structures:** CRUD-style operations on lists, arrays, and dictionaries.
+* **Algorithms:** Recursion, Binary Search, and string manipulation.
 
 ## 🛠️ How to Use This Repo
 1.  **Clone the Repository:**
