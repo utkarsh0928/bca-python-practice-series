@@ -30,3 +30,5 @@ wheels/
 env/
 venv/
 ENV/
+
+update_readme.py
