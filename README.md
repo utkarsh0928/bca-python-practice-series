@@ -1,6 +1,6 @@
 # 🐍 140+ Daily Python Challenge
 
-![Progress](https://img.shields.io/badge/Progress-9%20%2F%20141-orange)
+![Progress](https://img.shields.io/badge/Progress-11%20%2F%20141-orange)
 ![Last Update](https://img.shields.io/badge/Last_Update-Feb_2026-blue)
 
 ## 🚀 The Philosophy
@@ -31,12 +31,12 @@ The programs in this collection cover a wide range of essential Python topics:
     ```
 
 ## 📊 Real-Time Stats
-- **Programs Completed:** 9 / 141
-- **Mastery Level:** 6.4%
+- **Programs Completed:** 11 / 141
+- **Mastery Level:** 7.8%
 
 ## 📂 Recent Uploads
+- ✅ prog_11_check_number_sign.py
+- ✅ prog_10_swap_without_temp.py
 - ✅ prog_09_quadratic.py
 - ✅ prog_08_calender.py
 - ✅ prog_07_concelfeh.py
-- ✅ prog_06_conkmmile.py
-- ✅ prog_05_randomgen.py
