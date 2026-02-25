@@ -1,6 +1,6 @@
 # 🐍 140+ Daily Python Challenge
 
-![Progress](https://img.shields.io/badge/Progress-13%20%2F%20141-orange)
+![Progress](https://img.shields.io/badge/Progress-15%20%2F%20141-orange)
 ![Last Update](https://img.shields.io/badge/Last_Update-Feb_2026-blue)
 
 ## 🚀 The Philosophy
@@ -31,12 +31,12 @@ The programs in this collection cover a wide range of essential Python topics:
     ```
 
 ## 📊 Real-Time Stats
-- **Programs Completed:** 13 / 141
-- **Mastery Level:** 9.2%
+- **Programs Completed:** 15 / 141
+- **Mastery Level:** 10.6%
 
 ## 📂 Recent Uploads
+- ✅ prog_15_checkprime_num_1to10.py
+- ✅ prog_14_check_primenum.py
 - ✅ prog_13_check_leapyear.py
 - ✅ prog_12_check_evenodd.py
 - ✅ prog_11_check_number_sign.py
-- ✅ prog_10_swap_without_temp.py
-- ✅ prog_09_quadratic.py
