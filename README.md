@@ -1,6 +1,6 @@
 # 🐍 140+ Daily Python Challenge
 
-![Progress](https://img.shields.io/badge/Progress-19%20%2F%20141-orange)
+![Progress](https://img.shields.io/badge/Progress-21%20%2F%20141-orange)
 ![Last Update](https://img.shields.io/badge/Last_Update-Feb_2026-blue)
 
 ## 🚀 The Philosophy
@@ -31,12 +31,12 @@ The programs in this collection cover a wide range of essential Python topics:
     ```
 
 ## 📊 Real-Time Stats
-- **Programs Completed:** 19 / 141
-- **Mastery Level:** 13.5%
+- **Programs Completed:** 21 / 141
+- **Mastery Level:** 14.9%
 
 ## 📂 Recent Uploads
+- ✅ prog_21_sum_natural_nums.py
+- ✅ prog_20_armstrong_interval.py
 - ✅ prog_19_armstrong.py
 - ✅ prog_18_fibonacci_.py
 - ✅ prog_17_multiplication_table.py
-- ✅ prog_16_factorial.py
-- ✅ prog_15_checkprime_num_1to10.py
