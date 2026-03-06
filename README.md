@@ -35,7 +35,7 @@ The programs in this collection cover a wide range of essential Python topics:
 - **Mastery Level:** 16.3%
 
 ## 📂 Recent Uploads
-- ✅ prog_22_LCM.py
+- ✅ prog_23_LCM.py
 - ✅ prog_22_HCF.py
 - ✅ prog_21_sum_natural_nums.py
 - ✅ prog_20_armstrong_interval.py
