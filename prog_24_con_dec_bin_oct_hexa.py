@@ -1,0 +1,7 @@
+decnum=int(input("Enter a decimal number: "))
+octnum=oct(decnum)
+print("The octal representation of", decnum, "is", octnum)
+binnum=bin(decnum)
+print("The binary representation of", decnum, "is", binnum)
+hexnum=hex(decnum)
+print("The hexadecimal representation of", decnum, "is", hexnum)
